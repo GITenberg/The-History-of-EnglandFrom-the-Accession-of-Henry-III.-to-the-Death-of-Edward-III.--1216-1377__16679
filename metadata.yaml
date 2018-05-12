@@ -1,0 +1,47 @@
+_repo: The-History-of-EnglandFrom-the-Accession-of-Henry-III.-to-the-Death-of-Edward-III.--1216-1377__16679
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tout, T. F. (Thomas Frederick)
+    alias: Tout, Thomas Frederick
+    birthdate: 1855
+    deathdate: 1929
+    gutenberg_agent_id: '6862'
+    url: http://www.gutenberg.org/2009/agents/6862
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Frederick_Tout
+  editors:
+  - agent_name: Hunt, William
+    birthdate: 1842
+    deathdate: 1931
+    gutenberg_agent_id: '6863'
+    url: http://www.gutenberg.org/2009/agents/6863
+  - agent_name: Poole, Reginald Lane
+    alias: Poole, Reginald L. (Reginald Lane)
+    birthdate: 1857
+    deathdate: 1939
+    gutenberg_agent_id: '6864'
+    url: http://www.gutenberg.org/2009/agents/6864
+    wikipedia: http://en.wikipedia.org/wiki/Reginald_Lane-Poole
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2005-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16679'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Plantagenets, 1154-1399'
+- !lcsh 'Plantagenet, House of'
+- !lcsh 'Great Britain -- History -- 13th century'
+- !lcsh 'Great Britain -- History -- 14th century'
+- !lcc 'DA'
+title: 'The History of England
+
+  From the Accession of Henry III. to the Death of Edward III. (1216-1377)'
+url: http://www.gutenberg.org/ebooks/16679
