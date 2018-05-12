@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6864
     wikipedia: http://en.wikipedia.org/wiki/Reginald_Lane-Poole
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16679#The-History-of-EnglandFrom-the-Accession-of-Henry-III.-to-the-Death-of-Edward-III.--1216-1377_
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2005-09-10'
 gutenberg_type: Text
